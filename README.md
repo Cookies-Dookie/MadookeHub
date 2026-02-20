@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about game development and creative
 
 **[SurveyAnalytics](https://aspnetfp.bsite.net/index.html)** - A SurveyAnalytics Website for Survey Management
 
-**[BlockGO - A Web-Based Grade Records Management System Using BlockChain Technology] - Currently Developing
+**[BlockGO] - (A Web-Based Grade Records Management System Using Blockchain Technology)** - Currently Developing
 ---
 
 ## 📌 Pinned Repositories
