@@ -6,8 +6,9 @@ Welcome to my GitHub profile! I'm passionate about game development and creative
 
 ## 🎮 Featured Project
 
--**[Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)** - A collaborative building game available on itch.io
--**[TondoRift](https://grahambel.itch.io/tondo-rift)** - A collaborative building game available on itch.io
+**[Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)** - A collaborative building game available on itch.io
+
+**[TondoRift](https://grahambel.itch.io/tondo-rift)** - A collaborative building game available on itch.io
 
 ---
 
