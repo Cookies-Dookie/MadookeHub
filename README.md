@@ -19,7 +19,7 @@ Here are my featured projects:
 - **[Game-Design-and-Development](https://github.com/Cookies-Dookie/Game-Design-and-Development)** - Game design and development projects
 - **[Leis-FoodHub](https://github.com/Cookies-Dookie/Leis-FoodHub)** - A food hub web application
 - **[SurveyAnalyticsWeb](https://github.com/Cookies-Dookie/SurveyAnalyticsWeb)** - Survey analytics web application built with C# AspNet Framework
-- **[PythonFinals](https://github.com/Cookies-Dookie/PythonFinals)** - Python project for faculty
+- **[PythonFinals](https://github.com/Cookies-Dookie/PythonFinals)** - Faculty In and Out Python Project for faculty
 - **[Capstone-Project-BlockChain-BlockGo](https://github.com/Cookies-Dookie/Capstone-Project-BlockChain-BlockGo)** - Blockchain capstone project (BLOCKGO) built with Multiple Languages
 
 ---
