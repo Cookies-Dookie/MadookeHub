@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm passionate about game development and creative
 ## 🎮 Featured Project
 
 **[Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)** - A collaborative building game available on itch.io
+**[TondoRift](https://grahambel.itch.io/tondo-rift)** - A collaborative building game available on itch.io
 
 ---
 
@@ -15,26 +16,29 @@ Welcome to my GitHub profile! I'm passionate about game development and creative
 Here are my featured projects:
 
 - **[Game-Design-and-Development](https://github.com/Cookies-Dookie/Game-Design-and-Development)** - Game design and development projects
-- **[Leis-FoodHub](https://github.com/Cookies-Dookie/Leis-FoodHub)** - A food hub web application built with HTML
-- **[SurveyAnalyticsWeb](https://github.com/Cookies-Dookie/SurveyAnalyticsWeb)** - Survey analytics web application built with C#
-- **[PythonFinals](https://github.com/Cookies-Dookie/PythonFinals)** - Python projects and finals work
-- **[Capstone-Project-BlockChain-BlockGo](https://github.com/Cookies-Dookie/Capstone-Project-BlockChain-BlockGo)** - Blockchain capstone project built with Python
+- **[Leis-FoodHub](https://github.com/Cookies-Dookie/Leis-FoodHub)** - A food hub web application
+- **[SurveyAnalyticsWeb](https://github.com/Cookies-Dookie/SurveyAnalyticsWeb)** - Survey analytics web application built with C# AspNet Framework
+- **[PythonFinals](https://github.com/Cookies-Dookie/PythonFinals)** - Python project for faculty
+- **[Capstone-Project-BlockChain-BlockGo](https://github.com/Cookies-Dookie/Capstone-Project-BlockChain-BlockGo)** - Blockchain capstone project (BLOCKGO) built with Multiple Languages
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies (Tech-Stack)
 
-- Game Development
+- Game Development (Unity Framework, C#)
 - Blockchain Development
-- Web Development (HTML, C#)
+- Web Development (HTML, CSS, JAVASCRIPT, REACT, C# ASPNET)
+- Java
+- C Language and C#
+- Go Language For Blockchain Technology
 - Python
-- Data Analytics
+- MSSQL/MySQL, COUCHDB and PostgreSQL for Blockchain Development - (DATABASES)
 
 ---
 
 ## 🎯 Currently Working On
 
-I'm actively developing and maintaining my projects on GitHub and itch.io. Check out my latest work!
+I'm actively developing and maintaining my projects on GitHub. Check out my latest work!
 
 ---
 
@@ -44,11 +48,13 @@ I'm actively developing and maintaining my projects on GitHub and itch.io. Check
 
 ---
 
-## 📫 Connect With Me
+## Game Development Projects
 
 - 🎮 **itch.io**: [Bayanihan Builders](https://grahambel.itch.io/bayanihan-builders)
-- 💻 **GitHub**: [@Cookies-Dookie](https://github.com/Cookies-Dookie)
-
+- 🎮 **itch.io**: [TondoRift](https://grahambel.itch.io/tondo-rift)
 ---
+## Contact
+- 💻 **GitHub**: [@Cookies-Dookie](https://github.com/Cookies-Dookie)
+- **Gmail Account**: (pascualpatrick264@gmail.com)  
 
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.* 🚀
